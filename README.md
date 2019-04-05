@@ -1,6 +1,9 @@
 # MTA_Data_Analysis
 Repository for MTA Data Analysis work
 
+"""
+Docs from Harrison:
+
 Please see Metis_Project1_Presentation.pptx for the results. There are three main files used in the pipeline from data to results:
 
 1. 20190403 Metis Project 1 Analyzing MTA Data v15 final.ipynb
@@ -24,4 +27,5 @@ Other files:
     This was committed by Adi, who pulled this list of tech hubs from google.
 
 4. StationEntrances.csv
-    This was downloaded from the webpage "http://web.mta.info/developers/data/nyct/subway/StationEntrances.csv". As it turns out, the station names given in this dataset differed greatly from the station names provided by the turnstile data, so this was unused.
+    This was downloaded from the webpage "http://web.mta.info/developers/data/nyct/subway/StationEntrances.csv". The station names provided by this dataset differed greatly from the station names provided by the turnstile data and could not be merged reliably, so this file remains unused.
+"""

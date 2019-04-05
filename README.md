@@ -1,5 +1,5 @@
-# MTA_Data_Analysis
-Repository for MTA Data Analysis work
+# MTA Data Analysis
+Repository for the Data Analysis on the NYC MTA turnstile datasets
 
 """
 Docs from Harrison:
